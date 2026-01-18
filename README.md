@@ -1,3 +1,3 @@
 # easy-web
 
-https://akshat-cyber-cloud.github.io/easy-web/  click on it
+https://akshat-cyber-cloud.github.io/easy-web/  click on 
